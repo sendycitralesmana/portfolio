@@ -11,6 +11,7 @@ export const profile = {
   emailUser: "sendycitralesmana",
   emailDomain: "gmail.com",
   cv: "/cv-sendy-citra-lesmana.pdf",
+  photo: "/images/sendy-wsy.jpeg",
 }
 
 export const stats = [
